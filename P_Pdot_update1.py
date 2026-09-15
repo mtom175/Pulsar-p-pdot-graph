@@ -49,7 +49,7 @@ mu = 5*np.log10(d_pc/10) # d_pc = cluster distance in parsecs
 
 #creating the death line
 R = 1 # radius REPLACE with actual radius, to get it to run right now i am using the number one as it does not run with just [] as the placeholder.
-c = 3*10**8 #speen of light
+c = 3*10**8 #speed of light
 I = 1 #REPLACE with actual interia, to get it to run right now i am using the number one as it does not run with just [] as the placeholder.
 
 def B(x, y):
