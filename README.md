@@ -15,3 +15,8 @@ I have produced a plot for some of the pulsars within NGC104, the data I have us
 UPDATE: 15/09/2026
 
 I have attempted to take the log of the derivative of the period and plot the results. I am unsure if this is correct but it does plot. I have also started work on figuring out how to formulate the equation of state and other equations needed to create the "death line", something that is present on p/pdot graphs. I am also having issues pushing my update to my repository, so I am just labelling the updates until the issue is solved. I do apologise for this as I recognise that this is not the conventual way to update code on here. 
+
+
+UPDATE: 21/11/2026 
+
+I have noticed that my Pdot is off by approx 10-20 magnitudes, which will mess with the data. I am working on fixing that, however I want to make sure all the underlying math is implemented first. I have calculated the age in seconds, Kinetic energy and spin down luminosity in ergs. I have started to write out the contour lines as I am still trying to figure out how to properly implement them. This also includes the death line. I plan to find the average spin-down and age of the pulsars within NGC104 next.
