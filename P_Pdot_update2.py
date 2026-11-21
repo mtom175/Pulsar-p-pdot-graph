@@ -7,7 +7,7 @@ import numpy as np
 import math
 
 #Pulsars within NGC104
-pulsar = pd.read_csv("/home/morgan/Documents/pulsar shit/NGC104_Pulsar/pulsars.csv")
+pulsar = pd.read_csv("put pulsar data here")
 #pulsar paramters here
 
 P = pulsar["PERIOD_(ms)"] #Pulsar's period'
